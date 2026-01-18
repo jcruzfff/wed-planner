@@ -13,7 +13,8 @@ import {
   Download,
   Smartphone,
   Loader2,
-  Shield
+  Shield,
+  Settings
 } from "lucide-react";
 import Link from "next/link";
 import { PageContainer } from "@/components/layout/page-container";
